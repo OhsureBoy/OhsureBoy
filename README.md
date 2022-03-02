@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <a href="https://ohsure.notion.site/OhsureBoy-1993252798294b6b8cf22bf5b0ac6db0"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+  <a href="https://ohsure.notion.site/OhsureBoy-1993252798294b6b8cf22bf5b0ac6db0"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhsureBoy&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
   ### OhsureBoy
 
   
