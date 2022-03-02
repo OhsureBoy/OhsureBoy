@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhsureBoy)](https://github.com/OhsureBoy/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/kotlin-FFCA28?style=flat-square&logo=#7F52FF&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/kotlin-FFCA28?style=flat-square&logo=#7F52FF&logoColor=white"/>
