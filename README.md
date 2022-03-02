@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhsureBoy)](https://github.com/OhsureBoy/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhsureBoy)](https://github.com/OhsureBoy/github-readme-stats)
 
-
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=7F52FF&logoColor=white"/>
